@@ -22,7 +22,12 @@ public class Mississippi {
 		System.out.println("IIIII");
 	}
 	public static void letter_S () {
-		System.out.println("S");
+		System.out.println(" SSSSS ");
+		System.out.println("S     S");
+		System.out.println("S      ");
+		System.out.println(" SSSSS ");
+		System.out.pritnln("")
+		
 	}
 	public static void letter_P () {
 		System.out.println("P");
