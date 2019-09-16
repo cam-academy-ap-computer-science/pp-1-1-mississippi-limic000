@@ -11,7 +11,6 @@ public class Mississippi {
 		letter_S();
 		letter_S();
 		letter_I();
-		letter_I();
 		letter_P();
 		letter_P();
 		letter_I();
