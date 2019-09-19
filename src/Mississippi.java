@@ -1,4 +1,11 @@
+/* Grading Notes
+20/25 points
+-5 points as this code won't run due to minor typo in line 46.
 
+Notes: In general, method names should just follow camel case, no need for the underscore. For example, letterM .
+No points were deducted for the method names as this is just a stylistic preference.
+-Sarah Gilliam
+*/
 
 public class Mississippi {
 
